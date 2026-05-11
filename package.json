@@ -1,0 +1,13 @@
+{
+  "name": "awsal-n8n-mcp",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "axios": "^1.6.0",
+    "@modelcontextprotocol/sdk": "^1.0.1",
+    "zod": "^3.23.0"
+  }
+}
